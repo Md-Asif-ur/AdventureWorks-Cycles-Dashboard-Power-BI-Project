@@ -1,0 +1,67 @@
+This project was completed as part of the Maven Analytics Power BI Desktop course, which follows a project-based learning approach. While learning Power BI concepts step by step, I worked on the AdventureWorks Cycles case study and built a business intelligence dashboard from raw data.
+
+AdventureWorks Cycles is a fictional manufacturing company that sells cycling equipment and accessories. The main goal of this project was to transform raw business data into interactive Power BI reports for KPI tracking, regional performance comparison, product-level analysis, and customer insights.
+
+Tools Used
+Power BI
+Power Query
+DAX
+Data Modeling
+Star Schema
+Data Visualization
+KPI Reporting
+Dataset
+
+The dataset and guided project structure were provided through the Maven Analytics Power BI Desktop course. The dataset is based on Microsoft’s AdventureWorks sample database.
+
+The data includes sales, customer, product, territory, and return-related information.
+
+Project Objectives
+Clean and transform raw data using Power Query.
+Build a relational data model using fact and dimension tables.
+Create calculated columns and DAX measures.
+Track KPIs such as revenue, profit, orders, and return rates.
+Compare business performance across regions and product categories.
+Identify product trends and high-value customers.
+Design an interactive dashboard for business decision-making.
+Dashboard Features
+Executive dashboard with key KPIs.
+Regional performance analysis.
+Product-level trend analysis.
+Customer detail view to identify high-value customers.
+Return analysis and product performance monitoring.
+Interactive filters, slicers, and drill-through navigation.
+Clean dashboard design for business reporting.
+Key Skills Practiced
+Data cleaning and transformation in Power Query.
+Relational data modeling with fact and dimension tables.
+DAX measures for KPI tracking and business analysis.
+Dashboard design and data visualization.
+Sales, customer, product, and regional performance analysis.
+Turning raw data into business insights.
+Key Insights
+Compared sales, profit, orders, and returns across different business areas.
+Identified strong-performing products, regions, and customer groups.
+Analyzed customer-level data to highlight high-value customers.
+Used interactive visuals to support KPI monitoring and management reporting.
+Practiced translating business data into clear, decision-supporting dashboards.
+Business Value
+
+This dashboard helps business users monitor company performance, understand sales trends, compare regional results, and analyze customer and product behavior. The project demonstrates how Power BI can support business intelligence, KPI reporting, and data-driven decision-making.
+
+Files in This Repository
+AdventureWorks_Dashboard.pbix – Power BI dashboard file
+screenshots/ – dashboard screenshots
+README.md – project documentation
+Author
+
+Md Asifur Rahaman
+Business Analytics & Operations Research Student
+GitHub: github.com/Md-Asif-ur
+LinkedIn: linkedin.com/in/m-asifur
+
+Credit
+
+This project was completed as part of the Maven Analytics Power BI Desktop course. The course uses a project-based learning method, where learners build the AdventureWorks Cycles dashboard while learning Power BI concepts such as Power Query, data modeling, DAX, KPI reporting, and dashboard design.
+
+The dataset and guided project steps were provided through the course and are based on Microsoft’s AdventureWorks sample database. I used this project to practice and demonstrate business intelligence, reporting, and dashboard development skills for my portfolio.
